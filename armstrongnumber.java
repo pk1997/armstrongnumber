@@ -1,4 +1,4 @@
-/* Created by : Pavan k */
+
 //import static java.lang.Math.pow;
 import static java.lang.Math.pow;
 //import java.util.*;
