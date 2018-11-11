@@ -1,5 +1,5 @@
 
-//import static java.lang.Math.pow;
+
 import static java.lang.Math.pow;
 //import java.util.*;
 public class Armstrong{
