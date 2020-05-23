@@ -19,7 +19,7 @@ public class Armstrong{
                  l=l/10;
                  i++;
              }
-             
+           //p value equal to i  
            int p=i;
             int q=0;
             //System.out.println(p);
